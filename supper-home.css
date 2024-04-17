@@ -516,6 +516,7 @@
     .floating-steps button{
         width: 60%;
         font-size: 10pt;
+        color: #000;
     }
 
     .floating-stepone{
@@ -596,6 +597,7 @@
 
     .button-steps button{
         width: 90%;
+        background-color: transparent;
     }
 
     .new-steps img{
@@ -613,6 +615,13 @@
 
     .contact p{
         font-size: 14pt;
+    }
+
+    .step h1{
+        left: 2px;
+    }
+    .step h2{
+        top: -3px;
     }
 }
 
